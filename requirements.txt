@@ -11,3 +11,4 @@ requests==2.32.5
 matplotlib
 seaborn
 openpyxl
+PyPDF2==3.0.1
